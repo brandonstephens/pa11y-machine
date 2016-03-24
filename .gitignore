@@ -37,5 +37,5 @@ Thumbs.db
 #####################
 node_modules/
 node_modules/**/*
-captures
-captures/**/*
+reports
+reports/**/*

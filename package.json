@@ -1,0 +1,10 @@
+{
+  "name": "pa11y-machine",
+  "version": "1.0.0",
+  "description": "Check a list of urls against accessibility standards.",
+  "author": "Brandon Stephens",
+  "license": "ISC",
+  "devDependencies": {
+    "pa11y": "^3.6.0"
+  }
+}
