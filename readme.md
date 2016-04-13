@@ -19,3 +19,7 @@ Check a list of urls against accessibility standards.
 1. add a `urls.txt` file to the `pa11y-machine` directory
 2. cd to `pa11y-machine`
 3. run `. pally.sh`
+
+## Backlog
+
+- log each run to file with start/stop/duration/filecount
