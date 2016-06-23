@@ -7,7 +7,7 @@ Check a list of urls against accessibility standards.
 * WCAG2AA
 * WCAG2AAA
 
- <https://github.com/springernature/pa11y>
+<https://github.com/springernature/pa11y>
 
 ## Installation
 
